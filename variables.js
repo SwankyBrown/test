@@ -44,6 +44,6 @@ console.log (faveNum)
 */
 
 //CODE HERE
-for(i = 0; i < 4; i++){
+for(i = 0; i < 5; i++){
   console.log (faveNum)
 }

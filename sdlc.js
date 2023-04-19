@@ -6,7 +6,7 @@
 */
 
 planning // Implementation 
-AnalysisofRequirements // Design 
+analysisofRequirements // Design 
  design // Maintain
  implemtation // Analysis of Requirements
  testing & Intregation // Testing & Integration
@@ -19,7 +19,7 @@ maintain // Planning
     The first one is done for you. 
 */
 const planning = "This is the first step, in which the end goal of the software is determined and defined. Developers typically will see what systems are already in place, and determine what features will need to be added." 
-const AnalysisOfRequirements = " this is the second step of the Software Development Lifecycle. in this step developers will understand and construct musts for the goal or website in mind  "
+const analysisOfRequirements = " this is the second step of the Software Development Lifecycle. in this step developers will understand and construct musts for the goal or website in mind  "
 const design = "this is the third step this is what the website will look like and where things like buttons will be located "
 
 const implementation = "this is the fourth step and implementation is used to give life to the project. meaning the submit button will do as such and the pay now button will do as such"

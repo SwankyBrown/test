@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-gitDefinition = "git is a version control system"
+let gitDefinition = "git is a version control system"
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@ gitDefinition = "git is a version control system"
 */
 
 //CODE HERE
-gitHubDefinition = "github is different in the way that it is used to store source code for a project and save previous version of you cod as well"
+let gitHubDefinition = "github is different in the way that it is used to store source code for a project and save previous version of you cod as well"
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@ gitHubDefinition = "github is different in the way that it is used to store sour
 */
 
 //CODE HERE
-gitInitDefinition = 'it is used to initialize a new git repository, create a new git for git hub'
+let gitInitDefinition = 'it is used to initialize a new git repository, create a new git for git hub'
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@ gitInitDefinition = 'it is used to initialize a new git repository, create a new
 */
 
 //CODE HERE
-gitCloneDefinition = "this is how a git repository is cloned and saved to github's servers so it can be used from another computer"
+let gitCloneDefinition = "this is how a git repository is cloned and saved to github's servers so it can be used from another computer"
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@ gitCloneDefinition = "this is how a git repository is cloned and saved to github
 */
 
 //CODE HERE
-gitStatusDefinition = "displays the state of the working directory and the staging area"
+let gitStatusDefinition = "displays the state of the working directory and the staging area"
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,8 +53,8 @@ gitStatusDefinition = "displays the state of the working directory and the stagi
 */
 
 //CODE HERE
-gitAddDefinition = "allows you to add code directly to git and save it to the commit history you use this after changes"
-gitAddCode = 'git add FILENAMES.md'
+let gitAddDefinition = "allows you to add code directly to git and save it to the commit history you use this after changes"
+let gitAddCode = 'git add FILENAMES.md'
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,9 +65,9 @@ gitAddCode = 'git add FILENAMES.md'
 */
 
 //CODE HERE
-gitCommitDefinition = "git commit is how you save the current version of your git hub works kinda like a save checkpoint button on a game"
+let gitCommitDefinition = "git commit is how you save the current version of your git hub works kinda like a save checkpoint button on a game"
 
-gitCommitCode = "git commit -m 'file name' "
+let gitCommitCode = "git commit -m 'file name' "
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -76,4 +76,4 @@ gitCommitCode = "git commit -m 'file name' "
 */
 
 //CODE HERE
-girPushDefinition = "get push is how you update or make changes to your code directly to git hub "
+let girPushDefinition = "get push is how you update or make changes to your code directly to git hub "
